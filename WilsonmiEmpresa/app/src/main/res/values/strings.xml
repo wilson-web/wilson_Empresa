@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wilson mi Empresa</string>
+    <string name="noticias_btn">noticias</string>
+    <string name="cursos_btn">Cursos disponibles</string>
+    <string name="quienes_btn">Quienes somos</string>
+    <string name="costos_btn">Costo del curso</string>
+    <string name="libros_bnt">Libros gratis</string>
+
+
+    <string name="descripcion_noticias">Ultimas noticias de nuestra empresa</string>
+
+
+</resources>
